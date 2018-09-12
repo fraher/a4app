@@ -1,6 +1,6 @@
 # A4app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1. It is an application built using an online tutorial in order to learn the Angular framework. Further versions of this application will be for learning purposes only.
 
 ## Development server
 
